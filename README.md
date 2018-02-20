@@ -1,2 +1,2 @@
 # Chloe's Portfolio
-Live site: chloechoudesign.github.io
+Live site: https://chloechoudesign.github.io
