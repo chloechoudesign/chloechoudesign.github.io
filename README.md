@@ -1,2 +1,2 @@
 # Chloe's Portfolio
-Live site: https://chloechou.com
+Live site: http://chloechou.com
