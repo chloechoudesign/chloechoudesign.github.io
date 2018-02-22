@@ -328,6 +328,7 @@ a .bottom p { width:190px; }
 .walkman { background:url(../images/icons/bg-walkman.png) center no-repeat; background-size:48px 48px; }
 .zoom { background:url(../images/icons/bg-zoom.png) center no-repeat; background-size:48px 48px; }
 .tags { background:url(../images/icons/bg-tags.png) center no-repeat; background-size:48px 48px; }
+.github { background:url(../images/icons/bg-github.png) center no-repeat; border:none; background-size:48px 48px; }
 /* End Icons
 --------------------------------------------------------------------------------------------------------*/
 
